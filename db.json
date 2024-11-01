@@ -1,0 +1,22 @@
+{
+  "submissions": [
+    {
+      "id": "a4d9",
+      "name": "diah",
+      "email": "diah@gmail.com",
+      "selectedData": {
+        "id": 123,
+        "name": "Produk A"
+      }
+    },
+    {
+      "id": "7b1b",
+      "name": "diah",
+      "email": "diahputrilestari6@gmail.com",
+      "selectedData": {
+        "id": 456,
+        "name": "Produk B"
+      }
+    }
+  ]
+}
